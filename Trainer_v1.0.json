@@ -1,0 +1,240 @@
+{
+    "version": "v1.0",
+    "data": [
+        {
+            "title": "Introduction",
+            "paragraphs": [
+                {
+                    "context": "Hello! I am XYZ here to help you with soyabean related queries. Ask me questions for your soyabean related queries and I will try to help you."
+                    ,
+                    "qas": [
+                        {
+                            "question": "What are you?",
+                            "id": "1000",
+                            "answers": [
+                                {
+                                    "text": "Hello! I am XYZ here to help you with soyabean related queries.",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Who are you?",
+                            "id": "1001",
+                            "answers": [
+                                {
+                                    "text": "Hello! I am XYZ here to help you with soyabean related queries.",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Can you help me?",
+                            "id": "1002",
+                            "answers": [
+                                {
+                                    "text": "Ask me questions for your soyabean related queries and I will try to help you.",
+                                    "answer_start": 64
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "I need your help?",
+                            "id": "1003",
+                            "answers": [
+                                {
+                                    "text": "Ask me questions for your soyabean related queries and I will try to help you.",
+                                    "answer_start": 64
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Improved High Yielding Varieties",
+            "paragraphs": [
+                {
+                    "context": "Indian Institute of Soybean Research is maintaining 4000 accessions of soybean, which includes wild and weedy relatives and varieties released in India. Nearly 3000 accessions have been characterized for 17 descriptors."
+                    ,
+                    "qas": [
+                        {
+                            "question": "How many accessions of soyabean are maintained in India?",
+                            "id": "2001",
+                            "answers": [
+                                {
+                                    "text": "Indian Institute of Soybean Research is maintaining 4000 accessions of soybean, which includes wild and weedy relatives and varieties released in India.",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "How many varieties of soyabean are available in India?",
+                            "id": "2002",
+                            "answers": [
+                                {
+                                    "text": "Indian Institute of Soybean Research is maintaining 4000 accessions of soybean, which includes wild and weedy relatives and varieties released in India.",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Under the AICRPS system, 102 improved varieties have been developed till date under the domestic breeding programme ( Varieties List, Varieties state wise, Varieties with special characters)."
+                    ,
+                    "qas": [
+                        {
+                            "question": "How many varieties have been developed?",
+                            "id": "2003",
+                            "answers": [
+                                {
+                                    "text": "Under the AICRPS system, 102 improved varieties have been developed till date.",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                
+                },
+                {
+                    "context": "The centre has developed four soybean varieties viz. NRC 2(Ahilya 1), NRC-12 (Ahilya 2), NRC-7 (Ahilya 3) and NRC-37 (Ahilya 4)."
+                    ,
+                    "qas": [
+                        {
+                            "question": "Name some soyabean varieties developed by center?",
+                            "id": "2004",
+                            "answers": [
+                                {
+                                    "text": "The centre has developed four soybean varieties viz. NRC 2(Ahilya 1), NRC-12 (Ahilya 2), NRC-7 (Ahilya 3) and NRC-37 (Ahilya 4).",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Which soyabean varieties has been developed by center?",
+                            "id": "2005",
+                            "answers": [
+                                {
+                                    "text": "The centre has developed four soybean varieties viz. NRC 2(Ahilya 1), NRC-12 (Ahilya 2), NRC-7 (Ahilya 3) and NRC-37 (Ahilya 4).",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+
+                    ]
+                },
+                {
+                    "context": "Varieties like JS 93-05, JS 95-60, JS 335, JS 80-21, NRC 2, NRC 37, Punjab 1, Kalitur have high seed longevity."
+                    ,
+                    "qas": [
+                        {
+                            "question": "Name some soyabean varieties with high seed longevity?",
+                            "id": "2006",
+                            "answers": [
+                                {
+                                    "text": "JS 93-05, JS 95-60, JS 335, JS 80-21, NRC 2, NRC 37, Punjab 1, Kalitur",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Which soyabean variety can stay alive for long time?",
+                            "id": "2007",
+                            "answers": [
+                                {
+                                    "text": "JS 93-05, JS 95-60, JS 335, JS 80-21, NRC 2, NRC 37, Punjab 1, Kalitur",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Which soyabean variety can last longer?",
+                            "id": "2008",
+                            "answers": [
+                                {
+                                    "text": "JS 93-05, JS 95-60, JS 335, JS 80-21, NRC 2, NRC 37, Punjab 1, Kalitur",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Which soybean variety lasts longer?",
+                            "id": "2009",
+                            "answers": [
+                                {
+                                    "text": "JS 93-05, JS 95-60, JS 335, JS 80-21, NRC 2, NRC 37, Punjab 1, Kalitur",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Varieties like MACS 58, NRC 37, Type 49, Durga, Punjab 1 have been developed that are suitable for mechanical harvesting having high insertion point of the lowest pod"
+                    ,
+                    "qas": [
+                        {
+                            "question": "Name some soyabean varieties with higher pods?",
+                            "id": "2010",
+                            "answers": [
+                                {
+                                    "text": "MACS 58, NRC 37, Type 49, Durga, Punjab 1",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Name some varieties in which beans grow at high altitudes?",
+                            "id": "2011",
+                            "answers": [
+                                {
+                                    "text": "MACS 58, NRC 37, Type 49, Durga, Punjab 1",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "In which variety of soybean the pods grow at a higher height from the ground?",
+                            "id": "2012",
+                            "answers": [
+                                {
+                                    "text": "MACS 58, NRC 37, Type 49, Durga, Punjab 1",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Which soybean variety has high insertion point of the lowest pod?",
+                            "id": "2013",
+                            "answers": [
+                                {
+                                    "text": "MACS 58, NRC 37, Type 49, Durga, Punjab 1",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

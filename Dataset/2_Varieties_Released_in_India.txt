@@ -1,22 +1,22 @@
 ==Varieties Released in India==
-* 1	जे एस 20-116	JS 20-116	2019
-* 2	जे एस 20-94	JS 20-94	2019
-* 3	के डी एस 726	KDS 726	2019
-* 4	ए एम एस 1001	AMS 1001	2019
-* 5	हिम सोया	Him Soya	2019
-* 6	वी एल सोया 89	VL Soya 89	2019
-* 7	बिरसा सफेद सोया -2	Birsa Safed Soya-2	2019
-* 8	जे एस 20-98	JS 20-98	2018
-* 9	एम ए यू एस -612	MAUS-612	2018
-* 10	एन आर सी 127	NRC 127	2018
-* 11	सी जी सोया 1	CG Soya 1	2018
-* 12	बासारा	Basara	2018
-* 13	के डी एस 758	KDS 758	2018
-* 14	राज सोया -18 (प्रज्ञा)	Raj Soya -18 (Pragya)	2017
-* 15	आर वी एस 2002-4	RVS 2002-4	2017
-* 16	पी एस -1480 (पंत सोया -21)	PS-1480 (Pant Soya-21)	2017
-* 17	पी एस -1523 (पंत सोया -23)	PS-1523 (Pant Soya-23)	2017
-* 18	पी एस -1477 (पंत सोया -24)	PS-1477 (Pant Soya-24)	2014
+* JS 20-116 was released in the year 2019.
+* JS 20-94 was released in the year 2019.
+* KDS 726 was released in the year 2019.
+* AMS 1001 was released in the year 2019.
+* Him Soya was released in the year 2019.
+* VL Soya 89 was released in the year 2019.
+* Birsa Safed Soya-2 was released in the year 2019.
+* JS 20-98 was released in the year 2018.
+* MAUS-612 was released in the year 2018.
+* NRC 127 was released in the year 2018.
+* CG Soya 1 was released in the year 2018.
+* Basara was released in the year 2018.
+* KDS 758 was released in the year 2018.
+* Raj Soya -18 (Pragya) was released in the year 2017.
+* RVS 2002-4 was released in the year 2017.
+* PS-1480 (Pant Soya-21) was released in the year 2017.
+* PS-1523 (Pant Soya-23) was released in the year 2017.
+* PS-1477 (Pant Soya-24) was released in the year 2014.
 * 19	जे एस 20-69	JS 20-69	2016
 * 20	एम ए सी एस 1281	MACS 1281	2016
 * 21	जे एस 20-34	JS 20-34	2015
@@ -42,4 +42,4 @@
 * 41	एन आर सी - 7	NRC-7	2001
 * 42	हारा सोया	Hara Soya	2001
 * 43	जे एस 335	JS 335	1994
-* 44	बिरसा सोयाबीन -1	Birsa Soybean -1	1983
+* Birsa Soybean -1 was released in the year 1983
